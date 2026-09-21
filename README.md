@@ -45,7 +45,7 @@ If you use this repository, please cite:
   title={Examining Dermatology Image Generation Capabilities of Generative AI Across Skin Tones},
   author={Billingsley, Tevin and Li, Mingchen and Feng, Yunhe},
   booktitle={The 2026 ACM/IEEE Joint Conference on Digital Libraries (JCDL ’26)},
-  pages={7 pages},
+  pages={6 pages},
   year={2026},
   organization={ACM}
 }
