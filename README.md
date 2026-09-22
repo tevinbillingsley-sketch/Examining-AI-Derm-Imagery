@@ -21,7 +21,7 @@ The following diagram illustrates the framework behind "Examining Dermatology Im
 | **Joint Stratified Analysis** | Image set is put through an ablation study and separate accuracy analysis |
 
 ## Key Results
-The figures below depict the overall trends in accuracy for both the requested skin tone and the condition accuracy. The first chart shows the requested skin-tone accuracy, which was 2% for lighter tones (MST 01–05) and 44.8% for darker tones (MST 06–10). The second chart shows condition accuracy, in which among 242 correct-MST images, BioMedCLIP condition-matching accuracy was 68.5% for lighter tones and 57.1% for darker tones.
+The figures below depict the overall trends in accuracy for both the requested skin tone and the condition accuracy. The first chart shows the requested skin-tone accuracy, which was 52% for lighter tones (MST 01–05) and 44.8% for darker tones (MST 06–10). The second chart shows condition accuracy, in which among 242 correct-MST images, BioMedCLIP condition-matching accuracy was 68.5% for lighter tones and 57.1% for darker tones.
 
 <img width="219" height="126" alt="image" src="https://github.com/user-attachments/assets/6ff1e611-b6bd-4e08-bd3f-a6083b661566" />
 
